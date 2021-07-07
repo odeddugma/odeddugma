@@ -2,7 +2,7 @@
 
 ### ✨ My name is Oded Dugma, and I am a Full-Stack Web Developer. ✨
 
-### ✨ Follow me on <ins>[Twitter](https://twitter.com/DugmaOded)</ins> and <ins>[Linkedin](https://twitter.com/DugmaOded)</ins>.
+### ✨ Follow me on <ins>[Twitter](https://twitter.com/DugmaOded)</ins> and <ins>[Linkedin](https://twitter.com/DugmaOded)</ins>. ✨
 
 - 🔭 I’m currently working on Saikai, which is an open-source project for managing resume submissions. You are more than welcome to follow our <ins>[repository](https://github.com/Saikai-oyo/Saikai)</ins> and even use our product at <ins>[saikai.me](https://saikai.me/)</ins>. I'm also working on some personal projects, mostly for study purposes.
 - 🌱 I’m currently learning Laravel (a PHP framework). Although I'm literally in love with MERN stack, I want to have a good knowledge of LAMP stack. Oh... and I'm learning to play guitar 🎸 and a student for a Master's degree in Business administration.
