@@ -13,4 +13,4 @@
 - 💬 Ask me about: Almost anything. But Don't be sure I'll answer any question.
 - 📫 How to reach me: Twitter and Linkedin (links are mentioned above) can be a good start.
 - 😄 Pronouns: He/She/Who cares? I am beyond gender 😝🏳️‍🌈
-- ⚡ Fun fact: Before I became a Web Developer, I was a divorce lawyer.
+- ⚡ Fun fact: Before I became a Web Developer, I was a lawyer.
